@@ -1,4 +1,8 @@
 {
+  "name": "soma-flow-marketplace",
+  "owner": {
+    "name": "donnykoo"
+  },
   "plugins": [
     {
       "name": "soma_flow_plugin",
