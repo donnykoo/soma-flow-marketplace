@@ -7,8 +7,11 @@
     {
       "name": "soma_flow_plugin",
       "description": "AI 开发流水线编排 Claude Code 插件：设计对抗 → 任务规划 → TDD执行 → 集成测试 → 验收",
-      "npm": "soma_flow_plugin",
-      "version": "1.0.0"
+      "source": {
+        "source": "npm",
+        "package": "soma_flow_plugin",
+        "version": "1.0.0"
+      }
     }
   ]
 }
